@@ -1,7 +1,7 @@
 languageCode:           "en"
 title:                  "Bootstrap"
 baseURL:                "https://getbootstrap.com"
-enableInlineShortcodes: true
+enableInlineShortcodes: false 
 
 pygmentsUseClasses:     true
 # you can use ```lang if you want too
