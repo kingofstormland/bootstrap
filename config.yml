@@ -3,7 +3,7 @@ title:                  "Bootstrap"
 baseURL:                "https://getbootstrap.com"
 enableInlineShortcodes: false 
 
-pygmentsUseClasses:     true
+pygmentsUseClasses:     false 
 # you can use ```lang if you want too
 pygmentsCodeFences:     true
 
